@@ -32,6 +32,8 @@ The goal of this project is to develop a machine learning model that predicts da
    - Generated predictions for the test dataset.
    - Ensured the output format matched the required submission format (`6000 x 2` with `Timestamp` as index and `Water_Consumption` as the target variable).
    - Exported the predictions as `submission.csv` for final evaluation.
+   - ![image](https://github.com/user-attachments/assets/8ad53358-9e1b-4f8a-9e33-0b35df6c1efa)
+
 
 ### Tools and Libraries Used
 - **Python** (primary programming language)
